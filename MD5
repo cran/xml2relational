@@ -1,0 +1,11 @@
+31ea9ef75de7be1e648b4de4586bef44 *DESCRIPTION
+a4d22239b3ca5806bde3415017e67655 *NAMESPACE
+3889729235c2b342afb051fea78cde1c *NEWS.md
+50e3f2bd53ab34554f418ce658306563 *R/xml2relational.r
+b3314f49ba72f7f4777ce53a74596a95 *README.md
+734ea9c0b00ea2cc944c68c1edf14d2c *inst/customers.xml
+0816992d769c2ca3939ef89b73088943 *man/getCreateSQL.Rd
+c0bf5edad2dc710779ae2ea1d5387f14 *man/getInsertSQL.Rd
+9af1388bb73b63c931f9a38633d6383d *man/savetofiles.Rd
+ac68ca4bf86db56599e61601216521e5 *man/toRelational.Rd
+799f0639bd649c2f584014211cbea07f *man/xml2relational.Rd
